@@ -6,9 +6,9 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Personaje        | Alumno           | Liga al trabajo terminado  |
 | ------------- |:-------------:| -----:|
 | Bob Young      |  |  |
-| Eric Raymond     |       |    |
+| Eric Raymond     | Jesus Olivas |    |
 | Mark Shuttleworth |       |     |
-| Ian Murdock | | |
+| Ian Murdock |Jesus Olivas | |
 | Patrick Volderding| | |
 | Theo de Raadt | | |
 | Alan Cox| | |
