@@ -6,9 +6,9 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Personaje        | Alumno           | Liga al trabajo terminado  |
 | ------------- |:-------------:| -----:|
 | Bob Young      |  |  |
-| Eric Raymond     |       |    |
+| Eric Raymond     |  Jesus Olivas     | https://github.com/Mayorjesus710/Personajes-del-Software-Libre   |
 | Mark Shuttleworth |       |     |
-| Ian Murdock | | |
+| Ian Murdock | Jesus Olivas | |
 | Patrick Volderding|Mario Sigala | https://github.com/sigalam/personajesSL/blob/master/Patrick%20Volderding.html|
 | Theo de Raadt | | |
 | Alan Cox|MArio Sigala| https://github.com/sigalam/personajesSL/blob/master/Alan%20Cox.html|
